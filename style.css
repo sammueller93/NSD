@@ -1,0 +1,38 @@
+/*
+--basic reset
+*/
+
+*{margin: 0; padding: 0;}
+h1, h2, h3, h4, h5, h6 {font-weight: normal;}
+img, fieldset {border: 0;}
+img {max-width: 100%; vertical-align: middle;}
+button {cursor: pointer}
+
+/*
+--typography
+*/
+
+h3 {
+  font-weight: bold;
+}
+
+.Clemson {
+  font-color: purple;
+}
+
+.Texas {
+  font-color: orange;
+}
+
+.Florida {
+  font-color: blue;
+}
+
+/*
+--structure
+*/
+
+
+/*
+--general use
+*/
